@@ -1,4 +1,9 @@
 ## Hi there 👋
+### itskomodore
+
+I'm a college student interested in cybersecurity, cryptography, biology, and maybe a little bit of philosophy.
+
+[`✉️ itskomodore@proton.me`](mailto:itskomodore@proton.me)
 
 <!--
 **itskomodore/itskomodore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
