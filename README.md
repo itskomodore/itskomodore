@@ -1,21 +1,30 @@
-## Hi there 👋
-### itskomodore
+# 👋 Hi there, I'm komodore
 
-I'm a college student interested in cybersecurity, cryptography, biology, and maybe a little bit of philosophy.
+## 🎓 About Me
+I'm a college student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/). I'm on a journey to turn my passion for technology into innovative solutions.
 
-[`✉️ itskomodore@proton.me`](mailto:itskomodore@proton.me)
+## 🌱 I'm currently learning
+- Version control with Git and GitHub
+- Linux command line basics
+- Basic networking concepts
 
-<!--
-**itskomodore/itskomodore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Goals
+- Finish my first own project
+- Master a full-stack development framework
+- Participarte in a major hackathon
 
-Here are some ideas to get you started:
+## 💡 Interests
+- Cybersecurity
+- Ethical Hacking and Penetration Testing
+- Bioinformatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Courses I'm Taking
+- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+
+## 📫 How to reach me
+- [itskomodore@proton.me](mailto:itskomodore@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/dinh-long-do-06274b323/)
+
+---
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=itskomodore&show_icons=true&theme=radical)
