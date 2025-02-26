@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm komodore
 
 ## 🎓 About Me
-I'm a college student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/). I'm on a journey to turn my passion for technology into innovative solutions.
+I'm a college student at [Hanoi University of Science and Technology](https://hust.edu.vn/en/), School of Information and Communication Technology. I'm on a journey to turn my passion for technology into innovative solutions.
 
 ## 🌱 I'm currently learning
 - Version control with Git and GitHub
