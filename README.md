@@ -10,16 +10,19 @@ I'm a college student at [Hanoi University of Science and Technology](https://hu
 
 ## 🚀 Goals
 - Finish my first own project
+- Obtain the CCNA Certificate
 - Master a full-stack development framework
 - Participarte in a major hackathon
 
 ## 💡 Interests
 - Cybersecurity
+- Networking
 - Ethical Hacking and Penetration Testing
 - Bioinformatics
 
 ## 📚 Courses I'm Taking
-- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/)
+- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2025/)
+- [Jeremy's IT Lab's Cisco CCNA 200-301 Course](https://courses.jeremysitlab.com/p/ccna)
 
 ## 📫 How to reach me
 - [itskomodore@proton.me](mailto:itskomodore@proton.me)
